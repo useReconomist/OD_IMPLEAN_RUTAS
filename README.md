@@ -3,11 +3,13 @@
 La matriz incluye los pares origen-destino que tienen más de 5,000 viajes según el factor de expansión (ponderador). Cada par se ruteó en tres modalidades: Caminando, Auto y Bicicleta. La columna modalidad indica a cuál corresponde cada registro, y para cada una se incluye la geometría de la ruta (geom), la distancia (distance, en km) y la duración del recorrido (duration, en minutos).
 En total, la matriz suma 9,622,953 viajes, distribuidos así:
 
-Categoría	ViajesDe 5,000 a 10,000	1,035,824
-De 10,000 a 20,000	1,490,816
-De 20,000 a 50,000	1,629,396
-De 50,000 a 100,000	951,443
-Más de 100,000	4,515,474
+| Categoría | Viajes |
+|---|---:|
+| De 5,000 a 10,000 | 1,035,824 |
+| De 10,000 a 20,000 | 1,490,816 |
+| De 20,000 a 50,000 | 1,629,396 |
+| De 50,000 a 100,000 | 951,443 |
+| Más de 100,000 | 4,515,474 |
 
 Variables principales:
 
